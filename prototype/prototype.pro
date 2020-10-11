@@ -9,6 +9,7 @@ CONFIG += c++11
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    bot.cpp \
     bug.cpp \
     developer.cpp \
     main.cpp \
@@ -18,6 +19,8 @@ SOURCES += \
     settings.cpp
 
 HEADERS += \
+    basic_user.h \
+    bot.h \
     bug.h \
     developer.h \
     mainwindow.h \

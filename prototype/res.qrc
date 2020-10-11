@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>images/32.png</file>
+        <file>images/33.png</file>
+        <file>images/dema.jpg</file>
+        <file>images/misha.PNG</file>
+        <file>images/oleg.jpg</file>
+        <file>images/vlad.PNG</file>
+        <file>images/bug.png</file>
+        <file>images/f3e4b13c53590840e4fed95abb59075b.png</file>
+        <file>images/info.png</file>
+        <file>images/manual.png</file>
+    </qresource>
+</RCC>

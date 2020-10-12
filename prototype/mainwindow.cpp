@@ -19,6 +19,7 @@ MainWindow::MainWindow(QWidget *parent)
     QImage mainbackground(":/new/images/mainbckgnd.jpg");
     Pal.setBrush(QPalette::Window, mainbackground);
     this->setPalette(Pal);
+    //bckgnd
 }
 void MainWindow::on_action_3_triggered()
 {
